@@ -74,3 +74,123 @@ http://178.33.88.129:888/udp/239.102.0.15:1234
 http://178.33.88.129:888/udp/239.102.0.16:1234
 #EXTINF:-1,FR_beINSport3
 http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge3/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge3/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge3/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge3/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge3/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8
+#EXTINF:-1,Checa 18 MMSH
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,CALIENTE
+http://4.31.30.159:9003
+#EXTINF:-1,XXX NUEVO
+http://4.31.30.159:9005
+#EXTINF:-1,******* TV
+http://4.31.30.159:9006
+#EXTINF:-1,Erótica Cuatro
+http://portal.rapidiptv.com:8080/live/trial/Rr0eP80gpY/5151.m3u8
+#EXTINF:-1,PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,*******
+http://62.210.82.241:8081/pboytv/pboytv/live.m3u8
+#EXTINF:-1,Hustler
+http://62.210.82.241:8081/hustlertv/hustlertv/live.m3u8
+#EXTINF:-1,PRIVATE
+http://62.210.88.244:8081/private/private/playlist.m3u8
+#EXTINF:-1,***ZONE HD
+http://62.210.83.180:8081/***zonehd/***zonehd/chunklist_w1684109871.m3u8
+#EXTINF:-1,***Y HOT
+http://62.210.82.241:8081/***hothd/***hothd/chunklist_w1565017858.m3u8
+#EXTINF:-1,BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1,Virgin
+http://188.165.220.116:8081/live/44/playlist.m3u8
+#EXTINF:-1,Throated
+http://188.165.220.116:8081/live2/19/playlist.m3u8
+#EXTINF:-1,Brasileirinhas
+http://62.210.82.241:8081/brasileirinhas/brasileirinhas/live.m3u8
+#EXTINF:-1,Brasileirinhas2
+http://62.210.82.241:8081/brasileirinhas2/brasileirinhas2/live.m3u8
+#EXTINF:-1,***zone
+http://62.210.82.241:8081/***zonehd/***zonehd/live.m3u8
+#EXTINF:-1,Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,Italy Statisfication
+http://109.192.117.22:8001/1:0:1:A:1388:13E:820000:0:0:0:
+#EXTINF:-1,T Girls TV
+http://109.192.117.22:8001/1:0:1:35C0:1388:13E:820000:0:0:0:
+#EXTINF:-1,SCT
+http://109.192.117.22:8001/1:0:1:35C8:1388:13E:820000:0:0:0:
+#EXTINF:-1,Exotica TV
+http://109.192.117.22:8001/1:0:1:35C1:1388:13E:820000:0:0:0:
+#EXTINF:-1,Boy Boy
+http://109.192.117.22:8001/1:0:1:35C3:1388:13E:820000:0:0:0:
+#EXTINF:-1,CENTOxCENTO
+http://109.192.117.22:8001/1:0:1:35C6:1388:13E:820000:0:0:0:
+#EXTINF:-1,***t6
+http://109.192.117.22:8001/1:0:1:35C7:1388:13E:820000:0:0:0:
+#EXTINF:-1, RED Gazelle-erotic
+rtmp://94.242.228.182/yoy/_definst_/251
+#EXTINF:-1,Penthouse HD
+http://82.146.20.98:1234/udp/239.130.50.124:9001
+#EXTINF:-1,S ext6senso
+http://82.146.20.98:1234/udp/239.130.50.126:9001
+#EXTINF:-1,TGIRLS TV
+http://82.146.20.98:1234/udp/239.130.50.127:9001
+#EXTINF:-1,Satisfaction
+http://82.146.20.98:1234/udp/239.130.50.128:9001
+#EXTINF:-1,SCT
+http://82.146.20.98:1234/udp/239.130.50.129:9001
+#EXTINF:-1,Pinko TV
+http://82.146.20.98:1234/udp/239.130.50.130:9001
+#EXTINF:-1,Hustler HD
+http://82.146.20.98:1234/udp/239.130.50.132:9001
+#EXTINF:-1,Private
+http://82.146.20.98:1234/udp/239.130.50.134:9001
+#EXTINF:-1,Frenchlover
+http://82.146.20.98:1234/udp/239.130.50.135:9001
+#EXTINF:-1,PASSI XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:-1,HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:-1,THE O
+http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
+#EXTINF:-1,CINERO
+http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
+#EXTINF:-1,OKADAI HD
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+#EXTINF:-1,PINK TV
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
+#EXTINF:-1,GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1,DELIGHT EMPIRE
+http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
+#EXTINF:-1,PLUS
+http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
+#EXTINF:-1,OHDEOK
+http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
+#EXTINF:-1,LIVETHING
+http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
+#EXTINF:-1,PREMIUM
+http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+#EXTINF:-1,ASK TV
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
